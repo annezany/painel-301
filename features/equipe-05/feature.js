@@ -16,7 +16,7 @@ registrarCard({
 
   // ---- 1. Identificação (troque pelos dados da sua equipe) ----
   equipe: "05",
-  titulo: "Contador de Cliques",
+  titulo: "Alternar o tema",
   integrantes: ["Anne", "Mirelly"],
   icone: "fa-solid fa-star",   // procure outro em fontawesome.com/icons
 
